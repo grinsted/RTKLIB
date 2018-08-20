@@ -166,6 +166,7 @@ IERS_EOP_BULC  ftp://hpiers.obspm.fr/iers/bul/bulc/bulletinc.dat                
 IGS_ATX_08     ftp://igs.org/pub/station/general/igs08.atx                      c:\GNSS_DATA\data\pcv
 IGS_ATX_05     ftp://igs.org/pub/station/general/igs05.atx                      c:\GNSS_DATA\data\pcv
 IGS_ATX_08W    ftp://igs.org/pub/station/general/igs08_%W.atx                   c:\GNSS_DATA\data\pcv
+IGS_ATX_14     ftp://igs.org/pub/station/general/igs14.atx                      c:\GNSS_DATA\data\pcv
 
 #! VMF1 GRID DATA
 VMF_GRID       http://ggosatm.hg.tuwien.ac.at/DELAY/GRID/VMFG/%Y/VMFG_%Y%m%d.H%h c:\GNSS_DATA\data_vmf\%Y
